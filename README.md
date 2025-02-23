@@ -12,3 +12,5 @@ Method Reference
 Constructor Reference
 
 Optional Class
+
+Generic
